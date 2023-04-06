@@ -25,7 +25,7 @@ public class _04_arrayListEx02 {
 		
 		List<StringBuilder> strList = 
 				new ArrayList<StringBuilder>();
-		LinkedList
+		//LinkedList
 		int length = sb.length();
 		
 		for(int i = 0; i < length; i += 10) {

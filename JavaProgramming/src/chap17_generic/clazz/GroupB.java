@@ -17,7 +17,12 @@ public class GroupB implements Group {
 	public Map<String, String> getMemMap() {
 		return memMap;
 	}
-	
+
+	@Override
+	public String getCaptin() {
+		return null;
+	}
+
 	public void setMemMap(Map<String, String> memMap) {
 		this.memMap = memMap;
 	}

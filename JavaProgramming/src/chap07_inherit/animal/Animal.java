@@ -5,7 +5,7 @@ public class Animal {
 	public int size;
 	public int legCnt;
 	public boolean hasWing;
-	
+
 	public Animal() {
 		
 	}
@@ -21,4 +21,7 @@ public class Animal {
 	public void eat() {
 		System.out.println("식사를 한다.");
 	}
+
+
+
 }

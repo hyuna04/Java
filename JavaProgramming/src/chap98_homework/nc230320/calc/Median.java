@@ -1,4 +1,4 @@
-﻿package chap98_homework.nc230320.calc;
+package chap98_homework.nc230320.calc;
 
 import java.util.Scanner;
 // 3개의 정숫값을 입력하고 중앙값을 구한 다음 출력합니다.
