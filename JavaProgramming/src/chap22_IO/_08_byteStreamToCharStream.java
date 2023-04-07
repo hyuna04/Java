@@ -4,7 +4,13 @@ import java.io.*;
 
 public class _08_byteStreamToCharStream {
     public static void main(String[] args) {
-//asdasd
+    String str = "";
+        for (int i = 0; i < 20; i++) {
+            str = str + String.valueOf(i) + "\n";
+        }
+        System.out.println(str);
+        str = read();
+
     }
 
     public static void writer(String str) throws FileNotFoundException {

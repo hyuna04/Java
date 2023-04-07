@@ -1,6 +1,6 @@
 package RV.JTJ;
 
-public class _04_ {
+public class _04_T {
     public static void main(String[] args) {
 // Q1. 조건문의 참과 거짓
 //        String a = "write once, run anywhere";

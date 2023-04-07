@@ -5,6 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5347f107-1cab-4cf8-954c-552b02f78ac8" name="변경" comment="update commit">
+      <change afterPath="$PROJECT_DIR$/HW/src/_0407_/PhoneInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RV/JTJ/_03_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RV/JTJ/_03_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RV/JTJ/_03_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RV/JTJ/_03_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RV/JTJ/_03_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RV/JTJ/_03_06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/src/_0406_/HW02.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW/src/_0406_/HW02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/RV/JTJ/_04_.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HW/_0406_/HW02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HW/_0406_/HW02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RV/JTJ/_04_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RV/JTJ/_04_T.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/chap22_IO/_08_byteStreamToCharStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap22_IO/_08_byteStreamToCharStream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +84,13 @@
       <recent name="chap20_lambda.clazz" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._06_writerMethod">
-    <configuration name="_01_byteStreamWrite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap22_IO._01_byteStreamWrite" />
-      <module name="JavaProgramming" />
+  <component name="RunManager" selected="Application._03_06">
+    <configuration name="PhoneInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="_0407_.PhoneInfo" />
+      <module name="HW" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap22_IO.*" />
+          <option name="PATTERN" value="_0407_.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_03_inputStreamRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap22_IO._03_inputStreamRead" />
+    <configuration name="_03_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RV.JTJ._03_05" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap22_IO.*" />
+          <option name="PATTERN" value="RV.JTJ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_04_inputStreamRead" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap22_IO._04_inputStreamRead" />
+    <configuration name="_03_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RV.JTJ._03_06" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap22_IO.*" />
+          <option name="PATTERN" value="RV.JTJ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,19 +151,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application._01_byteStreamWrite" />
-      <item itemvalue="Application._03_inputStreamRead" />
-      <item itemvalue="Application._04_inputStreamRead" />
+      <item itemvalue="Application.PhoneInfo" />
+      <item itemvalue="Application._03_05" />
+      <item itemvalue="Application._03_06" />
       <item itemvalue="Application._05_fileCopyByteStream" />
       <item itemvalue="Application._06_writerMethod" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._03_06" />
+        <item itemvalue="Application._03_05" />
+        <item itemvalue="Application.PhoneInfo" />
         <item itemvalue="Application._06_writerMethod" />
         <item itemvalue="Application._05_fileCopyByteStream" />
-        <item itemvalue="Application._03_inputStreamRead" />
-        <item itemvalue="Application._04_inputStreamRead" />
-        <item itemvalue="Application._01_byteStreamWrite" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +184,7 @@
       <workItem from="1680608757902" duration="163000" />
       <workItem from="1680654901559" duration="27373000" />
       <workItem from="1680741333454" duration="34011000" />
-      <workItem from="1680827614116" duration="24014000" />
+      <workItem from="1680827614116" duration="34403000" />
     </task>
     <task id="LOCAL-00001" summary="변경">
       <created>1680785582058</created>
@@ -195,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680857039004</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update commit">
+      <created>1680857079482</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680857079482</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
