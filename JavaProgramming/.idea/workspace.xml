@@ -5,26 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5347f107-1cab-4cf8-954c-552b02f78ac8" name="변경" comment="변경">
-      <change afterPath="$PROJECT_DIR$/ex01.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap21_stream/_10_flatMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap21_stream/_11_sorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap21_stream/_12_peek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap21_stream/_13_match.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap21_stream/_14_mathMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap21_stream/_15_collect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap21_stream/_16_groupingBy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap21_stream/_17_parallelStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap22_IO/_01_byteStreamWrite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap22_IO/_02_byteStreamWrite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap22_IO/_03_inputStreamRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap22_IO/_04_inputStreamRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap22_IO/_05_fileCopyByteStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap22_IO/_06_writerMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap22_IO/_07_readerReadMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap22_IO/_08_byteStreamToCharStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW/src/_0406_/HW02.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW/src/_0406_/HW02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chap22_IO/_08_byteStreamToCharStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap22_IO/_08_byteStreamToCharStream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +172,7 @@
       <workItem from="1680608757902" duration="163000" />
       <workItem from="1680654901559" duration="27373000" />
       <workItem from="1680741333454" duration="34011000" />
-      <workItem from="1680827614116" duration="23630000" />
+      <workItem from="1680827614116" duration="23913000" />
     </task>
     <task id="LOCAL-00001" summary="변경">
       <created>1680785582058</created>
