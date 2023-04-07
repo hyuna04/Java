@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5347f107-1cab-4cf8-954c-552b02f78ac8" name="변경" comment="update commit">
-      <change afterPath="$PROJECT_DIR$/HW/src/_0407_/PhoneInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RV/JTJ/_03_01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RV/JTJ/_03_02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RV/JTJ/_03_03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RV/JTJ/_03_04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RV/JTJ/_03_05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RV/JTJ/_03_06.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HW/src/_0406_/HW02.java" beforeDir="false" afterPath="$PROJECT_DIR$/HW/src/_0406_/HW02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/RV/JTJ/_04_.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HW/_0406_/HW02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HW/_0406_/HW02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RV/JTJ/_04_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RV/JTJ/_04_T.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chap22_IO/_08_byteStreamToCharStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap22_IO/_08_byteStreamToCharStream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +172,7 @@
       <workItem from="1680608757902" duration="163000" />
       <workItem from="1680654901559" duration="27373000" />
       <workItem from="1680741333454" duration="34011000" />
-      <workItem from="1680827614116" duration="34403000" />
+      <workItem from="1680827614116" duration="35867000" />
     </task>
     <task id="LOCAL-00001" summary="변경">
       <created>1680785582058</created>
@@ -214,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680857079482</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update commit">
+      <created>1680869347986</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680869347986</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
