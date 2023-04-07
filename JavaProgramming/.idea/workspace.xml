@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5347f107-1cab-4cf8-954c-552b02f78ac8" name="변경" comment="변경">
+    <list default="true" id="5347f107-1cab-4cf8-954c-552b02f78ac8" name="변경" comment="update commit">
       <change beforePath="$PROJECT_DIR$/src/chap22_IO/_08_byteStreamToCharStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chap22_IO/_08_byteStreamToCharStream.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -172,7 +172,7 @@
       <workItem from="1680608757902" duration="163000" />
       <workItem from="1680654901559" duration="27373000" />
       <workItem from="1680741333454" duration="34011000" />
-      <workItem from="1680827614116" duration="23913000" />
+      <workItem from="1680827614116" duration="24014000" />
     </task>
     <task id="LOCAL-00001" summary="변경">
       <created>1680785582058</created>
@@ -181,7 +181,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680785582058</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update commit">
+      <created>1680856972856</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680856972856</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update commit">
+      <created>1680857039004</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680857039004</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,7 +204,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="변경" />
-    <option name="LAST_COMMIT_MESSAGE" value="변경" />
+    <MESSAGE value="update commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="update commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -4,7 +4,7 @@ import java.io.*;
 
 public class _08_byteStreamToCharStream {
     public static void main(String[] args) {
-//a
+//asdasd
     }
 
     public static void writer(String str) throws FileNotFoundException {
