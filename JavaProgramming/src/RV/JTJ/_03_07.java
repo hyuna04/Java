@@ -44,7 +44,7 @@ public class _03_07 {
         //pitches.add("138");
         //pitches.add("129");
         //pitches.add("142");
-        //세개가 ArrayList의 개수이므로 갸수(3개) 출력
+        //세개가 ArrayList의 개수이므로 개수(3개) 출력
         //->3출력
 
         //  - contains
@@ -66,8 +66,26 @@ public class _03_07 {
         //두번째 remove(인덱스)의 경우 해당 인덱스의 항목을 삭제하고
         //삭제된 항목을 리턴
         //->138출력(pitches 의 첫번째 항목은 138이므로 138리턴)
-        //2. 제네릭스
-        //3. 다양한 방법으로 ArrarList 만들기
+
+
+        //2. 제네릭스(Generics)
+        ArrayList<String> pitches1 = new ArrayList<>();
+        //위에서 사용한 첫번째 코드의 <String> 이라는 제네릭스 표현식은
+        // "ArrayList 안에 담을 수 있는 자료형은 String 타입 뿐이다"
+        // 라는 것을 의미한다.
+        // 즉, 제네릭스를 이용하면 좀 더 명확한 타입체크가 가능해 진다.
+        // 이것은 코드를 작성할 때도 몇 가지 이득을 준다.
+
+        // 제네릭을 사용하지 않는 경우
+        ArrayList pitches2 = new ArrayList();
+        pitches2.add("138");
+        pitches2.add("129");
+
+        String one = (String) pitches2.get(0);
+        String two = (String) pitches2.get(1);
+
+        //3. 다양한 방법으로 ArrayList 만들기
+
         //4. String.join
         //5. 리스트 정렬하기
     }
