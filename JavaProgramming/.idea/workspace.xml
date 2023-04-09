@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5347f107-1cab-4cf8-954c-552b02f78ac8" name="변경" comment="update commit">
+      <change afterPath="$PROJECT_DIR$/src/RV/JTJ/_03_07.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +73,7 @@
       <recent name="chap20_lambda.clazz" />
     </key>
   </component>
-  <component name="RunManager" selected="Application._03_06">
+  <component name="RunManager" selected="Application._03_07">
     <configuration name="PhoneInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="_0407_.PhoneInfo" />
       <module name="HW" />
@@ -112,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_05_fileCopyByteStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chap22_IO._05_fileCopyByteStream" />
+    <configuration name="_03_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RV.JTJ._03_07" />
       <module name="JavaProgramming" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chap22_IO.*" />
+          <option name="PATTERN" value="RV.JTJ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,19 +140,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application._03_07" />
       <item itemvalue="Application.PhoneInfo" />
       <item itemvalue="Application._03_05" />
       <item itemvalue="Application._03_06" />
-      <item itemvalue="Application._05_fileCopyByteStream" />
       <item itemvalue="Application._06_writerMethod" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application._03_07" />
         <item itemvalue="Application._03_06" />
         <item itemvalue="Application._03_05" />
         <item itemvalue="Application.PhoneInfo" />
         <item itemvalue="Application._06_writerMethod" />
-        <item itemvalue="Application._05_fileCopyByteStream" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +173,9 @@
       <workItem from="1680608757902" duration="163000" />
       <workItem from="1680654901559" duration="27373000" />
       <workItem from="1680741333454" duration="34011000" />
-      <workItem from="1680827614116" duration="35867000" />
+      <workItem from="1680827614116" duration="35893000" />
+      <workItem from="1680964787352" duration="1400000" />
+      <workItem from="1681034210610" duration="4621000" />
     </task>
     <task id="LOCAL-00001" summary="변경">
       <created>1680785582058</created>
@@ -209,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680869347986</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update commit">
+      <created>1680870965720</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680870965720</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
